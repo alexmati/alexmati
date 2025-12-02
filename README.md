@@ -18,7 +18,8 @@ spec:
     - CI/CD: GitHub Actions, GitLab, ArgoCD
     - IaC & Configuration Management: Terraform, Ansible, Packer, Helm
     - Monitoring & Observability: Grafana, Prometheus, Loki, Alloy
-
+  fact:
+    didaigeneratethis: true
 ```
 
 <!--
